@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://your-website-link.com/">[Your Name]</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://your-website-link.com/"> Sebastian Chombo </a> </h1>
 
 <h2>About Me</h2>
 <ul>
