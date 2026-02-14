@@ -5,7 +5,7 @@
 I am a quantitative analyst focused on scaling systematic trading frameworks and fraud detection logic within institutional environments.
 
 ### 📈 What I'm Working On
-- **Quantitative Research:** Refinement of trading frameworks combining market structure and macroeconomics, and statistical models.
+- **Quantitative Research:** Refinement of trading frameworks combining market structure, macroeconomics, and statistical models.
 - **Fraud Intelligence:** Analyzing on-chain transaction flows and improving detection logic accuracy.
 - **Contrast:** Maintaining the data intelligence platform for price transparency I co-founded.
 
