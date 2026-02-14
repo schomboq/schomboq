@@ -1,4 +1,4 @@
-# I'm Sebastian Chombo 👋
+# I'm Sebastian Chombo
 
 **Risk Analytics | Systematic Trader | Data Product Lead**
 
