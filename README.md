@@ -1,6 +1,6 @@
 # I'm Sebastian Chombo
 
-**Fraud & Risk Analytics | Data Analyst | Blockchain Intelligence**
+**Fraud & Risk Analytics | Blockchain Intelligence**
 
 I work on fraud detection, transaction analytics, and risk modeling across financial and blockchain crime & fraud datasets. My focus is identifying behavioral patterns, detecting anomalous transactions, and improving fraud prevention systems while balancing business performance metrics such as user experience and retention.
 
