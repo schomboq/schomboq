@@ -1,19 +1,22 @@
 # I'm Sebastian Chombo
 
-**Fraud & Risk Analytics | Quantitative Analyst | Blockchain Intelligence**
+**Fraud & Risk Analytics | Data Analyst | Blockchain Intelligence**
 
-I am a data analyst specializing in fraud detection, transaction analytics, and risk modeling across financial and blockchain crime & fraud datasets. My work focuses on building analytical workflows that identify suspicious patterns, quantify risk exposure, and improve fraud detection logic to optimize business perfomance metrics.
+I work on fraud detection, transaction analytics, and risk modeling across financial and blockchain crime & fraud datasets. My focus is identifying behavioral patterns, detecting anomalous transactions, and improving fraud prevention systems while balancing business performance metrics such as user experience and retention.
 
-### 🔎 What I'm Working On
-- **Fraud Analytics:** Developing analytical workflows to detect anomalous transaction behavior and improve fraud detection accuracy.
-- **Blockchain Intelligence:** Analyzing cross-chain transaction data and behavioral signals to identify suspicious activity and fraud patterns.
-- **Data Pipelines:** Building automated data ingestion and analysis pipelines in Python to support scalable investigative analytics.
+## 🔎 What I'm Working On
+- **Fraud Analytics:** Detecting transaction anomalies and fraud patterns using statistical analysis and behavioral signals.
+- **Risk vs UX Optimization:** Analyzing the trade-off between fraud detection accuracy, false positives, and customer experience.
+- **Blockchain Intelligence:** Investigating cross-chain transaction flows to identify suspicious activity and fraud schemes.
+- **Data Pipelines:** Automating ingestion and analysis of transaction datasets using Python.
 
-### 🛠 Tech Stack
-- **Data & Analytics:** Python, SQL, Statistical Analysis
-- **Fraud & Risk:** Transaction Monitoring, Behavioral Analysis, Risk Analytics
+## 🛠 Tech Stack
+- **Data:** Python, SQL, Statistical Analysis
+- **Fraud & Risk:** Transaction Monitoring, Pattern Recognition, Behavioral Analytics
 - **BI:** Tableau, Power BI
-- **Languages:** Spanish (Native), English (Native), French (Fluent)
 
-### 📫 Reach Me
-- **LinkedIn:** [linkedin.com/in/sebastianchombo](https://linkedin.com/in/sebastianchombo)
+## 🌍 Languages
+Spanish (Native) | English (Native) | French (Fluent)
+
+## 📫 Connect
+- **LinkedIn:** https://linkedin.com/in/sebastianchombo
