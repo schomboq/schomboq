@@ -2,7 +2,7 @@
 
 **Fraud & Risk Analytics | Quantitative Analyst | Blockchain Intelligence**
 
-I am a data analyst specializing in fraud detection, transaction analytics, and risk modeling across financial and blockchain crime/fraud datasets. My work focuses on building analytical workflows that identify suspicious patterns, quantify risk exposure, and improve fraud detection logic to optimize business perfomance metrics.
+I am a data analyst specializing in fraud detection, transaction analytics, and risk modeling across financial and blockchain crime & fraud datasets. My work focuses on building analytical workflows that identify suspicious patterns, quantify risk exposure, and improve fraud detection logic to optimize business perfomance metrics.
 
 ### 🔎 What I'm Working On
 - **Fraud Analytics:** Developing analytical workflows to detect anomalous transaction behavior and improve fraud detection accuracy.
